@@ -1,7 +1,7 @@
 # TO BE CHANGED if you cloned my dotfiles
 [user]
-        email = damien.cupif@gmail.com
-        name = Damien Cupif
+        email = alexkevin.loembe@nist.gov
+        name = Alex-Kevin LOEMBE
 
 [core]
         editor = vim

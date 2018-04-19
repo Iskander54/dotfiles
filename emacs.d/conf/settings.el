@@ -1,7 +1,7 @@
 ;; set up personal info
 ;; TO BE CHANGED if you cloned my dotfiles
-(setq user-full-name "Damien Cupif")
-(setq user-mail-address "damien.cupif@gmail.com")
+(setq user-full-name "Alex-Kevin LOEMBE")
+(setq user-mail-address "alexkevin.loembe@nist.gov")
 
 ;; disable welcome screen
 (setf inhibit-startup-screen 1)
